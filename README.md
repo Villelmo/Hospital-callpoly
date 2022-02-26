@@ -31,4 +31,3 @@ Todo el programa esta programado usando funciones para su facil manejo.
 Cualquier Duda no duden en preguntar.
 
 
-![Porn][https://cdn2.porn7.net//uploads8/images/5/58/amateur-porn-meme-or-something-i-don-t-know-i-don-t-watch--LqKBu3.jpg]
