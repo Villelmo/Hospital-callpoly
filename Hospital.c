@@ -76,6 +76,7 @@ strcat(file_name,file);
 strcat(file_name,".txt");
 }
 
+/* enter data */
 void Informacion(void)
 {
 printf("\n");
