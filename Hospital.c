@@ -109,6 +109,7 @@ printf("\n");
 system("PAUSE");
 }
 
+/* create a loading bar like animation */
 void loadingbar(void)
 {
 setbkcolor(1);		setcolor(14);		outtextxy(5,5,"Cargando el Programa. Espere Por Favor.");
