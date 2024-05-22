@@ -127,6 +127,7 @@ for (lb=11;lb<=430;lb++)
 sleep(1);
 }
 
+/* system in progress */
 void base (void)
 {
 do{
