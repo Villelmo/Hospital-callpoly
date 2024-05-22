@@ -7,6 +7,7 @@
 #include<graphics.h>
 #include<mouse.h>
 
+/* add variable */
 char u[15],file[10],file_name[100];
 char kar[100];
 char ano[600];
